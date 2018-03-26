@@ -1,0 +1,15 @@
+#efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 
+#efe4b0 #000000 #000000 #000000 #000000 #000000 #000000 #000000 #000000 #000000 #000000 #000000 #000000 #efe4b0 #efe4b0 
+#efe4b0 #000000 #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #000000 #efe4b0 #efe4b0 
+#efe4b0 #000000 #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #000000 #000000 #000000 #000000 #efe4b0 #efe4b0 
+#efe4b0 #000000 #b5e61d #b5e61d #22752d #b5e61d #b5e61d #22752d #b5e61d #000000 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #22752d 
+#efe4b0 #000000 #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #000000 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 
+#efe4b0 #0000ff #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #000000 #000000 #ff0000 #000000 #000000 #efe4b0 
+#efe4b0 #000000 #000000 #000000 #b5e61d #b5e61d #b5e61d #22752d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #000000 #efe4b0 
+#efe4b0 #efe4b0 #efe4b0 #000000 #b5e61d #22752d #b5e61d #b5e61d #b5e61d #b5e61d #22752d #b5e61d #b5e61d #000000 #efe4b0 
+#efe4b0 #efe4b0 #efe4b0 #000000 #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #b5e61d #000000 #000000 #000000 #000000 #efe4b0 
+#efe4b0 #000000 #000000 #000000 #b5e61d #000000 #000000 #000000 #b5e61d #b5e61d #000000 #efe4b0 #efe4b0 #efe4b0 #efe4b0 
+#efe4b0 #000000 #b5e61d #b5e61d #b5e61d #000000 #efe4b0 #000000 #b5e61d #b5e61d #000000 #efe4b0 #efe4b0 #efe4b0 #efe4b0 
+#efe4b0 #000000 #b5e61d #b5e61d #b5e61d #000000 #efe4b0 #000000 #000000 #000000 #000000 #efe4b0 #efe4b0 #efe4b0 #efe4b0 
+#efe4b0 #000000 #000000 #000000 #000000 #000000 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #22752d #efe4b0 
+#efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 
