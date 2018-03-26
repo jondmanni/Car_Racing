@@ -1,0 +1,7 @@
+Finish point cannot be directly adjacent a turn.
+Finish point must be pure red (R = 255, G = 0, B = 0; #ff0000)
+Check point must be pure blue (R = 0, G = 0, B = 255; #0000ff)
+
+Road must be pure black.
+
+The road must be a continual loop.
