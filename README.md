@@ -29,3 +29,12 @@ maps/your_map_here.txt
 map_loc = os.path.join('maps','your_map_here.txt')
 ```
 7. You're all set to play on your new map. Run 'main.py' to see your new map.
+
+## High Score
+Race against your best times with the built-in high score feature.
+If you'd ever like to reset the high score, follow these steps:
+1. Open up 'high_score.txt' and fill in the time with a time you can beat.
+```
+01:59:59 Slowpoke
+```
+2. Save the file and get back to racing.
